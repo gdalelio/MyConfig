@@ -1,3 +1,5 @@
+package complex_app.src.main.java;
+
 import com.typesafe.config.*;
 import simple_lib.src.main.java.simplelib.SimpleLibContext;
 
